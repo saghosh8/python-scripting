@@ -10,7 +10,7 @@ import time
 error_to_search = "ERROR"
 
 # Log file path
-log_file_path = r'D:\All Documents\Resume and interview preparation\GitHub\python-scripting\sample.log'
+log_file_path = r'\path\to\sample.log'
 
 # Email settings
 sender_email = "Sender_Email@gmail.com"
