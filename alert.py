@@ -10,15 +10,15 @@ import time
 error_to_search = "ERROR"
 
 # Log file path
-log_file_path = r'\path\to\sample.log'
+log_file_path = r'D:\All Documents\Resume and interview preparation\GitHub\python-scripting\sample.log'
 
 # Email settings
-sender_email = "Sender_Email@gmail.com"
-receiver_email = "Receiver_Email@gmail.com"
+sender_email = "sahanaghosh08@gmail.com"
+receiver_email = "sahanaghosh8@gmail.com"
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
-smtp_user = "Sender_Email@gmail.com"
-smtp_password = "Password"  # Update with your Gmail app-specific password
+smtp_user = "sahanaghosh08@gmail.com"
+smtp_password = "2014@Jan"  # Update with your Gmail app-specific password
 
 # Function to read log file and find the error
 def check_error_in_log(log_file_path, error_to_search):
